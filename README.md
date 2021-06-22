@@ -1,4 +1,4 @@
-# Marathi__sign_lng
+# Real Time Marathi Sign Language Recognition
 Marathi sign lang recognition with use of OpenCV
 
 Team Members : Samruddha, Saurabh, Naeem
